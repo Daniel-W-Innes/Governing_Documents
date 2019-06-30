@@ -12,6 +12,7 @@
 	\renewcommand{\headrulewidth}{0pt}
 	\newcommand{\BIG}{\fontsize{48}{55}\selectfont}
 	\renewcommand\thesection{\arabic{section}}
+	\setlength{\parindent}{0pt}
 }
 \newcommand{\stdFooter}{
 	\fancyhf{} 
