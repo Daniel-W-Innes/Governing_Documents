@@ -8,4 +8,4 @@ The steps with stars may be easier for some users in a gui, [gitkraken](https://
 5. [Comment your edit](https://git-scm.com/docs/git-commit).*
 6. Repeat last two steps into you are satisfied with your work.
 7. [Create a pull request](https://help.github.com/en/articles/creating-a-pull-request).*
-8. Do not merge until your credit is approved.
+8. Do not merge until your edit is approved.
