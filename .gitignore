@@ -2,4 +2,6 @@
 !*.gitignore
 !README.md
 !*.tex
+!*.cls
+!*.pdf
 !/res/*

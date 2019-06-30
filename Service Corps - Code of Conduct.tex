@@ -1,46 +1,12 @@
-\documentclass[letter, 11pt, oneside]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{mathptmx} 
-\usepackage[margin=2cm]{geometry}
-\usepackage{graphicx}
-\usepackage{float}
-\usepackage{fancyhdr}
-\usepackage{lastpage}
-\usepackage{hyperref}
-\usepackage[yyyymmdd]{datetime}
-\newcommand{\BIG}{\fontsize{48}{55}\selectfont}
+\documentclass{Service_Corps_Document}
+\stdSetup
 \begin{document}
 \def \Title {Code of Conduct}
 \def \Company {Service Corps}
 \def \versionNumber {3.0}
-\fancyhf{} 
-\pagestyle{fancy}
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot[L]{\Title\ - Revision \versionNumber\ - \today}
-\fancyfoot[R]{\thepage\ of \pageref{LastPage}}
-\centering
+\stdFooter
 \begin{titlepage}
-	\vspace*{10mm}
-	\textbf{{\LARGE Service Alliance}}
-	\vspace*{5mm}
-	\begin{figure}[H]
-		\centering
-		\includegraphics{res/badge1.png}
-	\end{figure}
-	\vspace*{5mm}
-	\textbf{{\BIG \Company}}
-			
-	\textbf{{\LARGE Venturer Company / Rover Crew \\ Ranger Unit}}
-			
-	\vspace*{5mm}
-	{\LARGE \Title}
-	\vspace*{5mm}
-	\begin{figure}[H]
-		\centering
-		\includegraphics{res/badge2.png}
-	\end{figure}
-	
+	\stdTitlePage
 \end{titlepage}
 \begin{enumerate}
 	\item Follow the Scouts Canada Promise, the Law, Motto, and BP\&P (BY-LAW, POLICIES, AND PROCEDURES) or the Girl Guides 	of Canada Vision, Mission, Values, Promise, Law, and Code of Conduct.

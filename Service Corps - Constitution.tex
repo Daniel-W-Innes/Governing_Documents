@@ -1,48 +1,12 @@
-\documentclass[letter, 11pt, oneside]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{mathptmx} 
-\usepackage[margin=2cm]{geometry}
-\usepackage{graphicx}
-\usepackage{float}
-\usepackage{fancyhdr}
-\usepackage{lastpage}
-\usepackage{hyperref}
-\usepackage[yyyymmdd]{datetime}
-\renewcommand{\headrulewidth}{0pt}
-\newcommand{\BIG}{\fontsize{48}{55}\selectfont}
-\renewcommand\thesection{\arabic{section}}
-
+\documentclass{Service_Corps_Document}
+\stdSetup
 \begin{document}
 \def \Title {Constitution}
 \def \Company {Service Corps}
 \def \versionNumber {4.0}
-\fancyhf{} 
-\pagestyle{fancy}
-\fancyfoot[L]{\Title\ - Revision \versionNumber\ - \today}
-\fancyfoot[R]{\thepage\ of \pageref{LastPage}}
+\stdFooter
 \begin{titlepage}
-	\centering
-	\vspace*{10mm}
-	\textbf{{\LARGE Service Alliance}}
-	\vspace*{5mm}
-	\begin{figure}[H]
-		\centering
-		\includegraphics{res/badge1.png}
-	\end{figure}
-	\vspace*{5mm}
-	\textbf{{\BIG \Company}}
-			
-	\textbf{{\LARGE Venturer Company / Rover Crew \\ Ranger Unit}}
-			
-	\vspace*{5mm}
-	{\LARGE \Title}
-	\vspace*{5mm}
-	\begin{figure}[H]
-		\centering
-		\includegraphics{res/badge2.png}
-	\end{figure}
-	
+	\stdTitlePage
 \end{titlepage}
 
 \tableofcontents	
