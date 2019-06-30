@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}NAME \& ESTABLISHMENT}{2}{section.1}% 
+\contentsline {section}{\numberline {2}MEMBERSHIP}{2}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}Primary}{3}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}Secondary}{3}{subsection.2.2}% 
+\contentsline {subsection}{\numberline {2.3}Auxiliary}{3}{subsection.2.3}% 
+\contentsline {section}{\numberline {3}EXECUTIVE}{3}{section.3}% 
