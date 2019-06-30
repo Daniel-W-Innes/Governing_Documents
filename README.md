@@ -1,5 +1,5 @@
 Latex files for Service Corps governing documents.
-##Editing Instructions
+## Editing Instructions
 The steps with stars may be easier for some users in a gui, [gitkraken](https://www.gitkraken.com/) is my preferred one for windows.
 1. Download a latex editor, [MiKTeX](https://miktex.org/download) is my preferred one for windows.
 2. [Clone to git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository).*
