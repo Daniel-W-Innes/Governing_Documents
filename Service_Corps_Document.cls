@@ -15,7 +15,7 @@
 	\setlength{\parindent}{0pt}
 }
 \newcommand{\stdFooter}{
-	\fancyhf{} 
+	\fancyhf{}
 	\pagestyle{fancy}
 	\fancyfoot[L]{\Title\ - Revision \versionNumber\ - \today}
 	\fancyfoot[R]{\thepage\ of \pageref{LastPage}}
@@ -30,11 +30,11 @@
 		\includegraphics{res/badge1.png}
 	\end{figure}
 	\vspace*{5mm}
-	
+
 	\textbf{{\BIG \Company}}
-			
+
 	\textbf{{\LARGE Venturer Company / Rover Crew}}
-			
+
 	\vspace*{5mm}
 	{\LARGE \Title}
 	\vspace*{5mm}
