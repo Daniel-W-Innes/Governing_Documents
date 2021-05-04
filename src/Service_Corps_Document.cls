@@ -26,7 +26,7 @@
     \vspace*{5mm}
     \begin{figure}[h]
         \centering
-        \includegraphics{res/badge1}\label{fig:badge1}
+        \includegraphics{../res/badge1}\label{fig:badge1}
     \end{figure}
     \vspace*{5mm}
 
@@ -39,6 +39,6 @@
     \vspace*{5mm}
     \begin{figure}[h]
         \centering
-        \includegraphics{res/badge2}\label{fig:badge2}
+        \includegraphics{../res/badge2}\label{fig:badge2}
     \end{figure}
 }
