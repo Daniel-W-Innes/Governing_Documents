@@ -32,7 +32,7 @@
 
     \textbf{{\BIG \Company}}
 
-    \textbf{{\LARGE Venturer Company / Rover Crew \\ Ranger Unit}}
+    \textbf{{\LARGE Venturer Company / Rover Crew}}
 
     \vspace*{5mm}
     {\LARGE \Title}
